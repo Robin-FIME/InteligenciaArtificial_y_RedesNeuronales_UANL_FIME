@@ -3,7 +3,9 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "authorship_tag": "ABX9TyN/t0bx7Kcu/7pfTbZ8U99P",
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -14,6 +16,16 @@
     }
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Robin-FIME/InteligenciaArtificial_y_RedesNeuronales_UANL_FIME/blob/main/ACTIVIDADES\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "markdown",
       "source": [
@@ -65,7 +77,7 @@
       "metadata": {
         "id": "oXvHig7mxgI_"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -76,7 +88,7 @@
       "metadata": {
         "id": "QMh4-i3rxkRa"
       },
-      "execution_count": 13,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -87,7 +99,7 @@
       "metadata": {
         "id": "6XvFMou-y0LJ"
       },
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -105,7 +117,7 @@
         "id": "dcXsStsH0dtT",
         "outputId": "22e03750-78ba-4c18-a68f-97931dcba161"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -190,7 +202,7 @@
         "id": "t3mq4yui1RZC",
         "outputId": "c302bd02-ee01-4720-c7fa-b29598dc13a9"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "execute_result",
@@ -363,7 +375,7 @@
         "id": "r0kNfN0X1WW1",
         "outputId": "9827a48a-e81d-41d1-cf31-6b12a25ec5a0"
       },
-      "execution_count": 17,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
